@@ -23,8 +23,8 @@ def web_page():#El que crea una web page simple
     return html
 
 #Nombre de la red y contraseña
-SSID = "itmerida"#Totalplay-2.4G-8600
-PASSWORD = ""#H8JK9EdMPmahBUgZ
+SSID = "itmerida"
+PASSWORD = ""
 
 #Método que lo conecta a internet
 conectaralwaifai(SSID, PASSWORD)
