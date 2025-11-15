@@ -6,5 +6,5 @@
 
 <p>El código se encuentra en la carpeta de <a href="https://github.com/Coolthread80/Python-ESP32/tree/main/Webserver_car">aquí arriba.</a></p>
 
-<img src="https://drive.google.com/file/d/1UyNvx7Gw6uFA5HD08ohmEixqsczim1vp/view?usp=drive_link" alt="">
+<img src="https://github.com/Coolthread80/Python-ESP32/blob/main/Webserver_car/evidence.gif" alt="">
 <p>(Video de hace más de 3.5 años, cuando todavía era la versión antigua)</p>
